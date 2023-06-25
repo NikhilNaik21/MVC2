@@ -25,3 +25,15 @@ select * from products;
 
 Code Explanation:
 
+
+datamembers (product-POJO class):
+
+private int productNo;
+	private int price;
+	private int stock;
+
+These are instance variables of the `product` class representing the product number, price, and
+ stock of a product. They are declared as private, which means they can only be accessed within the
+`product` class and not from outside. They can be accessed and modified using public getter and
+setter methods.
+
