@@ -50,7 +50,9 @@ This is a JSP (JavaServer Pages) file that displays a list of products using dat
 
 
 Package pages
+
 Class Day1
+
 java.lang.Object
 javax.servlet.GenericServlet
 javax.servlet.http.HttpServlet
