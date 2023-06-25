@@ -48,9 +48,5 @@ Project.jsp:
 
 This is a JSP (JavaServer Pages) file that displays a list of products using data from a Java bean called `Sales.ProductInfoBean`. The HTML code contains a table with three columns: Product No, Unit Price, and Current Stock. The `c:forEach` tag is used to iterate over the list of products in the `productInfo` bean and display each product's information in a row of the table. The `${...}` syntax is used to access the properties of each product object. The `<%@ page %>` directive is used to set the language and character encoding for the JSP page, while the `<%@ taglib %>` directive is used to import the JSTL (JavaServer Pages Standard Tag Library) core tag library. The `<jsp:useBean>` tag is used to instantiate a new instance of the `Sales.ProductInfoBean` class and assign it to the `productInfo` variable.
 
-![image](https://github.com/NikhilNaik21/MVC2/assets/111115551/528e2949-1988-41f8-bf65-fd507fc436d7)
-
-![image](https://github.com/NikhilNaik21/MVC2/assets/111115551/7c3ce3db-adb2-45a9-84cd-e099aa3d1e15)
-
 
 
