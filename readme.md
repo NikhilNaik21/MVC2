@@ -16,7 +16,7 @@ CREATE TABLE products
 
 INSERT INTO products(
 	product_no, product_price, current_stock)
-	VALUES (105	, 2253, 8);
+	VALUES (105, 2253, 8);
  
 select * from products;
 
