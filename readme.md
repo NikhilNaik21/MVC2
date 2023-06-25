@@ -21,3 +21,7 @@ INSERT INTO products(
 select * from products;
 
 ![image](https://github.com/NikhilNaik21/MVC2/assets/111115551/4fc7cbd7-f6b7-415b-b56b-970f56106c62)
+
+
+Code Explanation:
+
