@@ -37,3 +37,9 @@ These are instance variables of the `product` class representing the product num
 `product` class and not from outside. They can be accessed and modified using public getter and
 setter methods.
 
+ProductBeanInfo:
+ 
+getEntries():
+This Java function retrieves all entries from a MySQL database table named "products" and returnsthem as a list of product objects.
+@return A List of product objects is being returned.
+
